@@ -1,0 +1,7 @@
+批改人：胡蓓慧
+学生：张龙昌（12532748）
+得分：（17/30）
+扣分点：
+第一题 没有实现地形图（-2分），没有调整中央经线（-1分）
+2.1 缺乏以下要素： x label and ticks, y label and ticks, gridlines, annotations, and text box （-5分）
+2.2 缺乏以下要素： x label and ticks, y label and ticks, gridlines, annotations, and text box （-5分）
